@@ -16,7 +16,13 @@
 
 ### Versão mobile
 
+https://github.com/user-attachments/assets/e0771424-b6cd-4e64-9faf-6d11a1f911ac
+
 ### Versão tablet
 
+https://github.com/user-attachments/assets/de17d117-ab39-4487-b76d-04abc830fe48
+
 ### Versão desktop
+
+![versão-desktop](https://github.com/user-attachments/assets/571f6e1f-8099-4209-b88b-fa6bdf9ce8e8)
 
